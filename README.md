@@ -60,7 +60,7 @@ endmodule
 */
 
 ## Output:
-
+HALF SUBTRACTOR
 
 ## Truthtable
 ![T1](https://user-images.githubusercontent.com/95363138/167686175-7321f4fc-3db1-4fbb-9ff1-9348b7cb738d.png)
